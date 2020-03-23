@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.io.IOException;
 
 /**
- * @author by Coven
+ * @author by LiuGH
  * @Classname LoginFilter
  * @Description TODO
  * @Date 2020/3/20 12:22

@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Configuration;
 import javax.servlet.ServletRegistration;
 
 /**
- * @author by Coven
+ * @author by LiuGH
  * @Classname HystrixDashboradConfiguration
  * @Description TODO
  * @Date 2020/3/20 9:33

@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 
 /**
- * @author by Coven
+ * @author by LiuGH
  * @Classname AdminService
  * @Description TODO
  * @Date 2020/3/17 16:07

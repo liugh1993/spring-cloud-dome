@@ -3,7 +3,7 @@ package com.liugh.springcloud.web.feign.service;
 import org.springframework.stereotype.Component;
 
 /**
- * @author by Coven
+ * @author by LIuGH
  * @Classname AdminServiceHystrix
  * @Description TODO
  * @Date 2020/3/20 9:28

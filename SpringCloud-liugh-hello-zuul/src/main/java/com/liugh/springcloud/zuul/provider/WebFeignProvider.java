@@ -14,7 +14,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author by Coven
+ * @author by LiuGH
  * @Classname WebFeignProvider
  * @Description TODO
  * @Date 2020/3/20 12:09

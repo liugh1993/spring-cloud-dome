@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author by Coven
+ * @author by LiuGH
  * @Classname AddmiController
  * @Description TODO
  * @Date 2020/3/17 16:09

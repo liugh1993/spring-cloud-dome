@@ -1,0 +1,22 @@
+Spring:
+  application:
+    name: SpingCloud-liugh-web-feign
+  thymelaf:
+    cache: false
+    mode: LEGACYHTML5
+    encoding: UTF-8
+    servlet:
+      content-type: text/html
+
+server:
+  port: 8087
+
+#开启Feign Hystrix 支持
+feign:
+  hystrix:
+    enabled: true
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8081/eureka/
